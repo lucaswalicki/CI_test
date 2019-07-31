@@ -24,4 +24,3 @@ script:
 - cd build
 - cmake ..
 - make
-- ./CourseDashboard-ut
